@@ -10,3 +10,5 @@ public class FirstIf{
   }
 }
 // println ==> print line
+// System.out.println inserts
+// a newline (think of println as printnewline while System.out.print keeps printing to the same line. If you want each thing you print out to be on its own line, use println. If you want everything to stick together on one line, use print. 

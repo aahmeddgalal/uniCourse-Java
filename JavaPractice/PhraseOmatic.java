@@ -1,3 +1,4 @@
+package JavaPractice;
 public class PhraseOmatic {
   public static void main (String[] args){
     String[] wordListOne = {

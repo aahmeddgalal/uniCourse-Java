@@ -11,5 +11,6 @@ public class JOptionPaneInputDialogs {
       "name programme",
       JOptionPane.INFORMATION_MESSAGE);
       System.out.println(trail);
+      JOptionPane.showMessageDialog(null, "your name is " + name + " and your trial is " + trail);
   }
 }

@@ -27,5 +27,7 @@ public class SwitchCases {
         System.out.println("Number has exceeded 7");
     }
     // Outputs "Thursday" (day 4)
+    // When a match is found, and the job is done, it's time for a break. There is
+    // no need for more testing.
   }
 }

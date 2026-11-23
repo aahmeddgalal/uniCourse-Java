@@ -23,5 +23,6 @@ public class ScannerandLoops {
       System.out.println(age);
       System.out.println(salary);
     }
+    input.close();
   }
 }

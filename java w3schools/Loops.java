@@ -22,6 +22,11 @@ public class Loops {
       i++;
     } while (i < 6); // this code will run one time
 
+    // for loops
+    for (int y = 5; y > 0; y--) {
+      System.out.println(y);
+    }
+    
 
 
   }

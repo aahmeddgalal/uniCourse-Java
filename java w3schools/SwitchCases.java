@@ -23,6 +23,8 @@ public class SwitchCases {
       case 7:
         System.out.println("Sunday");
         break;
+      default:
+        System.out.println("Number has exceeded 7");
     }
     // Outputs "Thursday" (day 4)
   }

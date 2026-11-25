@@ -1,3 +1,5 @@
+package JavaPractice;
+
 import javax.swing.JOptionPane;
 
 public class JOptionPaneInputDialogs {

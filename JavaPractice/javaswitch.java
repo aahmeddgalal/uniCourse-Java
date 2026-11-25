@@ -1,4 +1,6 @@
-public class javaSwitch {
+package JavaPractice;
+
+public class JavaSwitch {
   public static void main(String[] args) {
     String product = "Water";
     int money = 1;

@@ -16,4 +16,4 @@ public class JavaSwitch {
         System.out.println("Unknown price");
     }
   }
-}
+}  

@@ -15,4 +15,6 @@ public class JOptionPaneInputDialogs {
       System.out.println(trail);
       JOptionPane.showMessageDialog(null, "your name is " + name + " and your trial is " + trail);
   }
-}
+} 
+
+// انا مبضون من المجتمع والي بيحصل فمش هتبضن عليا انت كمان بكسم الاستريك

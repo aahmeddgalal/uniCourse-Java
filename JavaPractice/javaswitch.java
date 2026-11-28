@@ -7,7 +7,7 @@ public class JavaSwitch {
 
     switch (money) {
       case 1:
-        System.out.println("FUCK");
+        System.out.println("FUCK " + product);
         break;
       case 2:
         System.out.println("NOO");
